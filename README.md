@@ -20,7 +20,6 @@
 - 📸 Passionate **Photographer & Editor**  
 - 📚 Lifelong Learner & Tech Explorer  
 - 💡 Focused on creating **beautiful, functional web experiences**  
-- 🌐 Portfolio: [rmanales10 Landing Page](https://rmanales10.github.io/VISITACION-LANDING-PAGE/rmanales10)
 
 ---
 
@@ -62,11 +61,7 @@
 
 ## 🌐 Connect With Me
 
-[![Website](https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rmanales10.github.io/VISITACION-LANDING-PAGE/rmanales10)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rmanales10)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rmanales10/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rmanales10)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rmanales10)
 
 ---
 
@@ -99,18 +94,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rmanales10&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
-</div>
-
----
-
-## 🐍 Contribution Graph Animation  
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rmanales10/rmanales10/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rmanales10/rmanales10/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/rmanales10/rmanales10/blob/output/github-snake.svg" />
-</picture>
 </div>
 
 ---
