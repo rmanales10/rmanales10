@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RedjanVisitacion&color=orange&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rmanales10&color=orange&style=flat" alt="Profile Views" />
 </div>
 
 ---
@@ -20,7 +20,7 @@
 - 📸 Passionate **Photographer & Editor**  
 - 📚 Lifelong Learner & Tech Explorer  
 - 💡 Focused on creating **beautiful, functional web experiences**  
-- 🌐 Portfolio: [RPSV CODES Landing Page](https://redjanvisitacion.github.io/VISITACION-LANDING-PAGE/RPSV_CODES)
+- 🌐 Portfolio: [rmanales10 Landing Page](https://rmanales10.github.io/VISITACION-LANDING-PAGE/rmanales10)
 
 ---
 
@@ -62,19 +62,19 @@
 
 ## 🌐 Connect With Me
 
-[![Website](https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=google-chrome&logoColor=white)](https://redjanvisitacion.github.io/VISITACION-LANDING-PAGE/RPSV_CODES)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/Rpsv.Codes)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/redjanphilsvisitacion/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rpsv_codes)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@redjanvisitacion5570)
+[![Website](https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rmanales10.github.io/VISITACION-LANDING-PAGE/rmanales10)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rmanales10)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rmanales10/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rmanales10)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rmanales10)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RedjanVisitacion&show_icons=true&theme=radical&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedjanVisitacion&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rmanales10&show_icons=true&theme=radical&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmanales10&theme=radical" height="180px"/>
 </div>
 
 ---
@@ -82,7 +82,7 @@
 ## 📈 Activity & Contributions  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedjanVisitacion&theme=radical&bg_color=141321&color=F97316&line=F97316&point=ffffff&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rmanales10&theme=radical&bg_color=141321&color=F97316&line=F97316&point=ffffff&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -90,7 +90,7 @@
 ## 📊 Language Usage  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedjanVisitacion&layout=compact&theme=radical&langs_count=10" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmanales10&layout=compact&theme=radical&langs_count=10" height="200px"/>
 </div>
 
 ---
@@ -98,7 +98,7 @@
 ## 🏆 GitHub Trophies  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RedjanVisitacion&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rmanales10&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 </div>
 
 ---
@@ -107,9 +107,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RedjanVisitacion/RedjanVisitacion/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/RedjanVisitacion/RedjanVisitacion/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/RedjanVisitacion/RedjanVisitacion/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rmanales10/rmanales10/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rmanales10/rmanales10/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/rmanales10/rmanales10/blob/output/github-snake.svg" />
 </picture>
 </div>
 
