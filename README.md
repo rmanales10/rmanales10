@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1000x300?text=Insert+Your+Banner+URL+Here" alt="GitHub Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://scontent.fmnl25-3.fna.fbcdn.net/v/t39.30808-6/480730813_617145574263967_855893424806898747_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=2a1932&_nc_ohc=bZ17YKLftWEQ7kNvwGCsv0q&_nc_oc=AdnRokPt2OmGlYWijn4rEs-3jLwbU1OZ-2IoidphTmjBXaz35hahzZ3dUIC-ZGd5ccg&_nc_zt=23&_nc_ht=scontent.fmnl25-3.fna&_nc_gid=QzchMRAHGttYlvDdKc_jgQ&_nc_ss=8&oh=00_AfyoCY0m71GLJHR3YatChardKq-yM6XiyGMtd6KxeRKUYw&oe=69BFD420" alt="GitHub Banner" width="100%" style="border-radius: 10px;" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=700&height=60&lines=I+want+to+be+a+Programmer;Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Photographer+%7C+Editor+Applications;Always+developing+my+skills" alt="Typing SVG" />
 
